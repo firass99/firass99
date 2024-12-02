@@ -33,8 +33,8 @@
   <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="40"/></a>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40"/></a>
   <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40"/></a>
-  <a href="https://nestjs.com/"><img src="[https://d33wubrfki0l68.cloudfront.net/8ec81cbb40012e5eab6cb58b68033552a64a2c17/43a27/img/logo-small.svg](https://images.app.goo.gl/AUdg2mMGEEGy2ni3A)" alt="NestJS" height="40"/></a>
-  <a href="https://laravel.com/"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg](https://images.app.goo.gl/yrg8h2yzaGiwqtN58)" alt="Laravel" height="40"/></a>
+  <a href="https://nestjs.com/"><img src="https://static-00.iconduck.com/assets.00/nestjs-icon-1024x1020-34exj0g6.png" alt="NestJS" height="40"/></a>
+  <a href="https://laravel.com/"><img src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png" alt="Laravel" height="40"/></a>
   <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="40"/></a>
   <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="40"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/></a>
