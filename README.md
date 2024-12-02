@@ -18,7 +18,7 @@
 - 🤖 **Machine Learning** concepts and applications.
 
 ### 💬 Let's Talk About
-- Web Development: MERN Stack and NestJS.
+- Web Development: MERN Stack, Laravel, and NestJS.
 - 🐳 DevOps: Docker and CI/CD practices.
 - Design: Figma and TailwindCSS for UI/UX.
 
@@ -33,13 +33,15 @@
   <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="40"/></a>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40"/></a>
   <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40"/></a>
-  <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" height="40"/></a>
+  <a href="https://nestjs.com/"><img src="https://d33wubrfki0l68.cloudfront.net/8ec81cbb40012e5eab6cb58b68033552a64a2c17/43a27/img/logo-small.svg" alt="NestJS" height="40"/></a>
+  <a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="40"/></a>
   <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="40"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="40"/></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40"/></a>
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/></a>
   <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/></a>
 </p>
 
 ---
@@ -48,7 +50,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firass99&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=firass99&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firass99&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
