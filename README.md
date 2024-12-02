@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Firas SEBAI</h1>
+<h1 align="center">
+  Hi 👋, I'm Firas SEBAI 
+  <br>
+  <img src="https://media.giphy.com/media/1ykdSk8f9qAm0ELadk/giphy.gif" alt="Coding GIF" width="100"/>
+</h1>
 <h3 align="center">💻 A Passionate Software Engineer Student from Tunisia 🌍</h3>
 <h4 align="center">🚀 Seeking MERN Stack Developer opportunities</h4>
 
@@ -55,7 +59,4 @@
 ---
 
 ### 🔥 Fun Fact
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Funny Coding GIF" width="400"/>
-</p>
 I’m always eager to learn new skills and collaborate on exciting projects. Feel free to connect with me for anything cool in tech!
