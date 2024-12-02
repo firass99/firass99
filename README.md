@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Firas SEBAI</h1>
-<h3 align="center">A Software Enginner Student from Tunisia, and currently looking for MERN Stack Dev Position.</h3>
+<h3 align="center">A Software Engineer Student from Tunisia, and currently looking for MERN Stack Dev Position.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firass99&label=Profile%20views&color=0e75b6&style=flat" alt="firass99" /> </p>
 
