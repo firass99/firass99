@@ -2,6 +2,10 @@
 <h3 align="center">💻 A Passionate Software Engineer Student from Tunisia 🌍</h3>
 <h4 align="center">🚀 Seeking MERN Stack Developer opportunities</h4>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coding GIF" width="400"/>
+</p>
+
 ---
 
 <p align="center"> 
@@ -20,7 +24,7 @@
 ### 💬 Let's Talk About
 - Web Development: MERN Stack, Laravel, and NestJS.
 - 🐳 DevOps: Docker and CI/CD practices.
-- 🎨 Design: Figma, Bootstrap and TailwindCSS for UI/UX.
+- 🎨 Design: Figma, Bootstrap, and TailwindCSS for UI/UX.
 
 ### 📫 Connect with Me
 - **Email**: firassebai.fs@gmail.com
@@ -56,4 +60,3 @@
 
 ### 🔥 Fun Fact
 I’m always eager to learn new skills and collaborate on exciting projects. Feel free to connect with me for anything cool in tech!
-<br>
