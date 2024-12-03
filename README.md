@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi 👋, I'm Firas SEBAI 
   <br>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder GIF" style="border-radius='25%'" width="200"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coder GIF"  width="200"/>
 </h1>
 <h3 align="center">💻 A Passionate Software Engineer Student from Tunisia 🌍</h3>
 <h4 align="center">🚀 Seeking MERN Stack Developer opportunities</h4>
